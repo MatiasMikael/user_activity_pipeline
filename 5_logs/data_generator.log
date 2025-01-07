@@ -1,0 +1,300 @@
+2025-01-07 11:44:55.272724 - INFO - Starting data generator script.
+2025-01-07 11:44:55.279723 - INFO - Generated user activity: {'user_id': 4, 'activity': 'view_item', 'timestamp': '2025-01-07 09:44:55'}
+2025-01-07 11:44:55.371710 - INFO - Data sent to Kafka: {'user_id': 4, 'activity': 'view_item', 'timestamp': '2025-01-07 09:44:55'}
+2025-01-07 11:44:57.404240 - INFO - Generated user activity: {'user_id': 40, 'activity': 'purchase', 'timestamp': '2025-01-07 09:44:57'}
+2025-01-07 11:44:57.416236 - INFO - Data sent to Kafka: {'user_id': 40, 'activity': 'purchase', 'timestamp': '2025-01-07 09:44:57'}
+2025-01-07 11:44:59.418756 - INFO - Generated user activity: {'user_id': 25, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:44:59'}
+2025-01-07 11:44:59.437760 - INFO - Data sent to Kafka: {'user_id': 25, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:44:59'}
+2025-01-07 11:45:01.449052 - INFO - Generated user activity: {'user_id': 35, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:45:01'}
+2025-01-07 11:45:01.471045 - INFO - Data sent to Kafka: {'user_id': 35, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:45:01'}
+2025-01-07 11:45:03.494910 - INFO - Generated user activity: {'user_id': 33, 'activity': 'view_item', 'timestamp': '2025-01-07 09:45:03'}
+2025-01-07 11:45:03.501902 - INFO - Data sent to Kafka: {'user_id': 33, 'activity': 'view_item', 'timestamp': '2025-01-07 09:45:03'}
+2025-01-07 11:45:05.511445 - INFO - Generated user activity: {'user_id': 9, 'activity': 'purchase', 'timestamp': '2025-01-07 09:45:05'}
+2025-01-07 11:45:05.522447 - INFO - Data sent to Kafka: {'user_id': 9, 'activity': 'purchase', 'timestamp': '2025-01-07 09:45:05'}
+2025-01-07 11:45:07.544323 - INFO - Generated user activity: {'user_id': 65, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:45:07'}
+2025-01-07 11:45:07.553315 - INFO - Data sent to Kafka: {'user_id': 65, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:45:07'}
+2025-01-07 11:45:09.574996 - INFO - Generated user activity: {'user_id': 10, 'activity': 'logout', 'timestamp': '2025-01-07 09:45:09'}
+2025-01-07 11:45:09.587975 - INFO - Data sent to Kafka: {'user_id': 10, 'activity': 'logout', 'timestamp': '2025-01-07 09:45:09'}
+2025-01-07 11:45:11.623702 - INFO - Generated user activity: {'user_id': 26, 'activity': 'logout', 'timestamp': '2025-01-07 09:45:11'}
+2025-01-07 11:45:11.660686 - INFO - Data sent to Kafka: {'user_id': 26, 'activity': 'logout', 'timestamp': '2025-01-07 09:45:11'}
+2025-01-07 11:45:13.675506 - INFO - Generated user activity: {'user_id': 54, 'activity': 'view_item', 'timestamp': '2025-01-07 09:45:13'}
+2025-01-07 11:45:13.682498 - INFO - Data sent to Kafka: {'user_id': 54, 'activity': 'view_item', 'timestamp': '2025-01-07 09:45:13'}
+2025-01-07 11:45:15.695907 - INFO - Generated user activity: {'user_id': 100, 'activity': 'purchase', 'timestamp': '2025-01-07 09:45:15'}
+2025-01-07 11:45:15.707899 - INFO - Data sent to Kafka: {'user_id': 100, 'activity': 'purchase', 'timestamp': '2025-01-07 09:45:15'}
+2025-01-07 11:45:17.744420 - INFO - Generated user activity: {'user_id': 3, 'activity': 'login', 'timestamp': '2025-01-07 09:45:17'}
+2025-01-07 11:45:17.750426 - INFO - Data sent to Kafka: {'user_id': 3, 'activity': 'login', 'timestamp': '2025-01-07 09:45:17'}
+2025-01-07 11:45:19.782352 - INFO - Generated user activity: {'user_id': 83, 'activity': 'purchase', 'timestamp': '2025-01-07 09:45:19'}
+2025-01-07 11:45:19.902325 - INFO - Data sent to Kafka: {'user_id': 83, 'activity': 'purchase', 'timestamp': '2025-01-07 09:45:19'}
+2025-01-07 11:45:22.081957 - INFO - Generated user activity: {'user_id': 96, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:45:22'}
+2025-01-07 11:45:22.145947 - INFO - Data sent to Kafka: {'user_id': 96, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:45:22'}
+2025-01-07 11:45:24.158591 - INFO - Generated user activity: {'user_id': 45, 'activity': 'view_item', 'timestamp': '2025-01-07 09:45:24'}
+2025-01-07 11:45:24.175582 - INFO - Data sent to Kafka: {'user_id': 45, 'activity': 'view_item', 'timestamp': '2025-01-07 09:45:24'}
+2025-01-07 11:45:26.204383 - INFO - Generated user activity: {'user_id': 57, 'activity': 'logout', 'timestamp': '2025-01-07 09:45:26'}
+2025-01-07 11:45:26.239389 - INFO - Data sent to Kafka: {'user_id': 57, 'activity': 'logout', 'timestamp': '2025-01-07 09:45:26'}
+2025-01-07 11:45:28.544989 - INFO - Generated user activity: {'user_id': 33, 'activity': 'view_item', 'timestamp': '2025-01-07 09:45:28'}
+2025-01-07 11:45:29.495825 - INFO - Data sent to Kafka: {'user_id': 33, 'activity': 'view_item', 'timestamp': '2025-01-07 09:45:28'}
+2025-01-07 11:45:31.825347 - INFO - Generated user activity: {'user_id': 43, 'activity': 'view_item', 'timestamp': '2025-01-07 09:45:31'}
+2025-01-07 11:45:31.836369 - INFO - Data sent to Kafka: {'user_id': 43, 'activity': 'view_item', 'timestamp': '2025-01-07 09:45:31'}
+2025-01-07 11:45:34.010280 - INFO - Generated user activity: {'user_id': 41, 'activity': 'purchase', 'timestamp': '2025-01-07 09:45:34'}
+2025-01-07 11:45:34.063242 - INFO - Data sent to Kafka: {'user_id': 41, 'activity': 'purchase', 'timestamp': '2025-01-07 09:45:34'}
+2025-01-07 11:45:36.169866 - INFO - Generated user activity: {'user_id': 13, 'activity': 'logout', 'timestamp': '2025-01-07 09:45:36'}
+2025-01-07 11:45:36.236860 - INFO - Data sent to Kafka: {'user_id': 13, 'activity': 'logout', 'timestamp': '2025-01-07 09:45:36'}
+2025-01-07 11:45:38.257504 - INFO - Generated user activity: {'user_id': 15, 'activity': 'login', 'timestamp': '2025-01-07 09:45:38'}
+2025-01-07 11:45:38.429470 - INFO - Data sent to Kafka: {'user_id': 15, 'activity': 'login', 'timestamp': '2025-01-07 09:45:38'}
+2025-01-07 11:45:40.456124 - INFO - Generated user activity: {'user_id': 98, 'activity': 'login', 'timestamp': '2025-01-07 09:45:40'}
+2025-01-07 11:45:40.463123 - INFO - Data sent to Kafka: {'user_id': 98, 'activity': 'login', 'timestamp': '2025-01-07 09:45:40'}
+2025-01-07 11:45:42.476011 - INFO - Generated user activity: {'user_id': 79, 'activity': 'view_item', 'timestamp': '2025-01-07 09:45:42'}
+2025-01-07 11:45:42.488006 - INFO - Data sent to Kafka: {'user_id': 79, 'activity': 'view_item', 'timestamp': '2025-01-07 09:45:42'}
+2025-01-07 11:45:44.510893 - INFO - Generated user activity: {'user_id': 93, 'activity': 'purchase', 'timestamp': '2025-01-07 09:45:44'}
+2025-01-07 11:45:44.519884 - INFO - Data sent to Kafka: {'user_id': 93, 'activity': 'purchase', 'timestamp': '2025-01-07 09:45:44'}
+2025-01-07 11:45:46.528580 - INFO - Generated user activity: {'user_id': 32, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:45:46'}
+2025-01-07 11:45:46.547582 - INFO - Data sent to Kafka: {'user_id': 32, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:45:46'}
+2025-01-07 11:45:48.559331 - INFO - Generated user activity: {'user_id': 27, 'activity': 'logout', 'timestamp': '2025-01-07 09:45:48'}
+2025-01-07 11:45:48.571325 - INFO - Data sent to Kafka: {'user_id': 27, 'activity': 'logout', 'timestamp': '2025-01-07 09:45:48'}
+2025-01-07 11:45:50.588702 - INFO - Generated user activity: {'user_id': 71, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:45:50'}
+2025-01-07 11:45:50.603692 - INFO - Data sent to Kafka: {'user_id': 71, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:45:50'}
+2025-01-07 11:45:52.619240 - INFO - Generated user activity: {'user_id': 53, 'activity': 'view_item', 'timestamp': '2025-01-07 09:45:52'}
+2025-01-07 11:45:52.628221 - INFO - Data sent to Kafka: {'user_id': 53, 'activity': 'view_item', 'timestamp': '2025-01-07 09:45:52'}
+2025-01-07 11:45:54.650439 - INFO - Generated user activity: {'user_id': 75, 'activity': 'view_item', 'timestamp': '2025-01-07 09:45:54'}
+2025-01-07 11:45:54.661441 - INFO - Data sent to Kafka: {'user_id': 75, 'activity': 'view_item', 'timestamp': '2025-01-07 09:45:54'}
+2025-01-07 11:45:56.685341 - INFO - Generated user activity: {'user_id': 44, 'activity': 'login', 'timestamp': '2025-01-07 09:45:56'}
+2025-01-07 11:45:56.691340 - INFO - Data sent to Kafka: {'user_id': 44, 'activity': 'login', 'timestamp': '2025-01-07 09:45:56'}
+2025-01-07 11:45:58.712856 - INFO - Generated user activity: {'user_id': 37, 'activity': 'login', 'timestamp': '2025-01-07 09:45:58'}
+2025-01-07 11:45:58.721844 - INFO - Data sent to Kafka: {'user_id': 37, 'activity': 'login', 'timestamp': '2025-01-07 09:45:58'}
+2025-01-07 11:46:00.729889 - INFO - Generated user activity: {'user_id': 90, 'activity': 'purchase', 'timestamp': '2025-01-07 09:46:00'}
+2025-01-07 11:46:00.740899 - INFO - Data sent to Kafka: {'user_id': 90, 'activity': 'purchase', 'timestamp': '2025-01-07 09:46:00'}
+2025-01-07 11:46:02.753473 - INFO - Generated user activity: {'user_id': 1, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:46:02'}
+2025-01-07 11:46:02.762464 - INFO - Data sent to Kafka: {'user_id': 1, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:46:02'}
+2025-01-07 11:46:04.786440 - INFO - Generated user activity: {'user_id': 9, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:46:04'}
+2025-01-07 11:46:04.854428 - INFO - Data sent to Kafka: {'user_id': 9, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:46:04'}
+2025-01-07 11:46:06.867782 - INFO - Generated user activity: {'user_id': 81, 'activity': 'purchase', 'timestamp': '2025-01-07 09:46:06'}
+2025-01-07 11:46:07.002759 - INFO - Data sent to Kafka: {'user_id': 81, 'activity': 'purchase', 'timestamp': '2025-01-07 09:46:06'}
+2025-01-07 11:46:09.431334 - INFO - Generated user activity: {'user_id': 95, 'activity': 'purchase', 'timestamp': '2025-01-07 09:46:09'}
+2025-01-07 11:46:10.137215 - INFO - Data sent to Kafka: {'user_id': 95, 'activity': 'purchase', 'timestamp': '2025-01-07 09:46:09'}
+2025-01-07 11:46:12.410817 - INFO - Generated user activity: {'user_id': 35, 'activity': 'purchase', 'timestamp': '2025-01-07 09:46:12'}
+2025-01-07 11:46:12.730761 - INFO - Data sent to Kafka: {'user_id': 35, 'activity': 'purchase', 'timestamp': '2025-01-07 09:46:12'}
+2025-01-07 11:46:15.192336 - INFO - Generated user activity: {'user_id': 15, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:46:15'}
+2025-01-07 11:46:15.800221 - INFO - Data sent to Kafka: {'user_id': 15, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:46:15'}
+2025-01-07 11:46:18.348769 - INFO - Generated user activity: {'user_id': 63, 'activity': 'view_item', 'timestamp': '2025-01-07 09:46:18'}
+2025-01-07 11:46:18.977661 - INFO - Data sent to Kafka: {'user_id': 63, 'activity': 'view_item', 'timestamp': '2025-01-07 09:46:18'}
+2025-01-07 11:46:21.566583 - INFO - Generated user activity: {'user_id': 26, 'activity': 'purchase', 'timestamp': '2025-01-07 09:46:21'}
+2025-01-07 11:46:21.741543 - INFO - Data sent to Kafka: {'user_id': 26, 'activity': 'purchase', 'timestamp': '2025-01-07 09:46:21'}
+2025-01-07 11:46:23.823198 - INFO - Generated user activity: {'user_id': 39, 'activity': 'purchase', 'timestamp': '2025-01-07 09:46:23'}
+2025-01-07 11:46:23.828123 - INFO - Data sent to Kafka: {'user_id': 39, 'activity': 'purchase', 'timestamp': '2025-01-07 09:46:23'}
+2025-01-07 11:46:25.998376 - INFO - Generated user activity: {'user_id': 86, 'activity': 'logout', 'timestamp': '2025-01-07 09:46:25'}
+2025-01-07 11:46:26.209336 - INFO - Data sent to Kafka: {'user_id': 86, 'activity': 'logout', 'timestamp': '2025-01-07 09:46:25'}
+2025-01-07 11:46:28.514294 - INFO - Generated user activity: {'user_id': 10, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:46:28'}
+2025-01-07 11:46:28.521297 - INFO - Data sent to Kafka: {'user_id': 10, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:46:28'}
+2025-01-07 11:46:30.534487 - INFO - Generated user activity: {'user_id': 35, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:46:30'}
+2025-01-07 11:46:30.558483 - INFO - Data sent to Kafka: {'user_id': 35, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:46:30'}
+2025-01-07 11:46:32.586704 - INFO - Generated user activity: {'user_id': 75, 'activity': 'purchase', 'timestamp': '2025-01-07 09:46:32'}
+2025-01-07 11:46:32.629695 - INFO - Data sent to Kafka: {'user_id': 75, 'activity': 'purchase', 'timestamp': '2025-01-07 09:46:32'}
+2025-01-07 11:46:34.648630 - INFO - Generated user activity: {'user_id': 85, 'activity': 'login', 'timestamp': '2025-01-07 09:46:34'}
+2025-01-07 11:46:34.656637 - INFO - Data sent to Kafka: {'user_id': 85, 'activity': 'login', 'timestamp': '2025-01-07 09:46:34'}
+2025-01-07 11:46:36.670607 - INFO - Generated user activity: {'user_id': 14, 'activity': 'logout', 'timestamp': '2025-01-07 09:46:36'}
+2025-01-07 11:46:36.676600 - INFO - Data sent to Kafka: {'user_id': 14, 'activity': 'logout', 'timestamp': '2025-01-07 09:46:36'}
+2025-01-07 11:46:38.686453 - INFO - Generated user activity: {'user_id': 39, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:46:38'}
+2025-01-07 11:46:38.762426 - INFO - Data sent to Kafka: {'user_id': 39, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:46:38'}
+2025-01-07 11:46:40.784078 - INFO - Generated user activity: {'user_id': 97, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:46:40'}
+2025-01-07 11:46:40.873070 - INFO - Data sent to Kafka: {'user_id': 97, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:46:40'}
+2025-01-07 11:46:43.377577 - INFO - Generated user activity: {'user_id': 8, 'activity': 'purchase', 'timestamp': '2025-01-07 09:46:43'}
+2025-01-07 11:46:43.501553 - INFO - Data sent to Kafka: {'user_id': 8, 'activity': 'purchase', 'timestamp': '2025-01-07 09:46:43'}
+2025-01-07 11:46:45.654172 - INFO - Generated user activity: {'user_id': 18, 'activity': 'login', 'timestamp': '2025-01-07 09:46:45'}
+2025-01-07 11:46:45.662182 - INFO - Data sent to Kafka: {'user_id': 18, 'activity': 'login', 'timestamp': '2025-01-07 09:46:45'}
+2025-01-07 11:46:47.675830 - INFO - Generated user activity: {'user_id': 73, 'activity': 'login', 'timestamp': '2025-01-07 09:46:47'}
+2025-01-07 11:46:47.698822 - INFO - Data sent to Kafka: {'user_id': 73, 'activity': 'login', 'timestamp': '2025-01-07 09:46:47'}
+2025-01-07 11:46:49.714074 - INFO - Generated user activity: {'user_id': 23, 'activity': 'login', 'timestamp': '2025-01-07 09:46:49'}
+2025-01-07 11:46:49.721062 - INFO - Data sent to Kafka: {'user_id': 23, 'activity': 'login', 'timestamp': '2025-01-07 09:46:49'}
+2025-01-07 11:46:51.739033 - INFO - Generated user activity: {'user_id': 50, 'activity': 'purchase', 'timestamp': '2025-01-07 09:46:51'}
+2025-01-07 11:46:51.750017 - INFO - Data sent to Kafka: {'user_id': 50, 'activity': 'purchase', 'timestamp': '2025-01-07 09:46:51'}
+2025-01-07 11:46:54.079615 - INFO - Generated user activity: {'user_id': 83, 'activity': 'logout', 'timestamp': '2025-01-07 09:46:54'}
+2025-01-07 11:46:54.604524 - INFO - Data sent to Kafka: {'user_id': 83, 'activity': 'logout', 'timestamp': '2025-01-07 09:46:54'}
+2025-01-07 11:46:56.706397 - INFO - Generated user activity: {'user_id': 35, 'activity': 'view_item', 'timestamp': '2025-01-07 09:46:56'}
+2025-01-07 11:46:56.783384 - INFO - Data sent to Kafka: {'user_id': 35, 'activity': 'view_item', 'timestamp': '2025-01-07 09:46:56'}
+2025-01-07 11:46:58.797277 - INFO - Generated user activity: {'user_id': 13, 'activity': 'logout', 'timestamp': '2025-01-07 09:46:58'}
+2025-01-07 11:46:58.812270 - INFO - Data sent to Kafka: {'user_id': 13, 'activity': 'logout', 'timestamp': '2025-01-07 09:46:58'}
+2025-01-07 11:47:00.834860 - INFO - Generated user activity: {'user_id': 24, 'activity': 'logout', 'timestamp': '2025-01-07 09:47:00'}
+2025-01-07 11:47:00.849821 - INFO - Data sent to Kafka: {'user_id': 24, 'activity': 'logout', 'timestamp': '2025-01-07 09:47:00'}
+2025-01-07 11:47:02.867640 - INFO - Generated user activity: {'user_id': 79, 'activity': 'login', 'timestamp': '2025-01-07 09:47:02'}
+2025-01-07 11:47:02.873646 - INFO - Data sent to Kafka: {'user_id': 79, 'activity': 'login', 'timestamp': '2025-01-07 09:47:02'}
+2025-01-07 11:47:04.885564 - INFO - Generated user activity: {'user_id': 94, 'activity': 'login', 'timestamp': '2025-01-07 09:47:04'}
+2025-01-07 11:47:04.892565 - INFO - Data sent to Kafka: {'user_id': 94, 'activity': 'login', 'timestamp': '2025-01-07 09:47:04'}
+2025-01-07 11:47:06.901708 - INFO - Generated user activity: {'user_id': 16, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:47:06'}
+2025-01-07 11:47:06.910711 - INFO - Data sent to Kafka: {'user_id': 16, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:47:06'}
+2025-01-07 11:47:08.925111 - INFO - Generated user activity: {'user_id': 48, 'activity': 'view_item', 'timestamp': '2025-01-07 09:47:08'}
+2025-01-07 11:47:08.936110 - INFO - Data sent to Kafka: {'user_id': 48, 'activity': 'view_item', 'timestamp': '2025-01-07 09:47:08'}
+2025-01-07 11:47:10.954127 - INFO - Generated user activity: {'user_id': 34, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:47:10'}
+2025-01-07 11:47:10.964117 - INFO - Data sent to Kafka: {'user_id': 34, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:47:10'}
+2025-01-07 11:47:12.984641 - INFO - Generated user activity: {'user_id': 30, 'activity': 'purchase', 'timestamp': '2025-01-07 09:47:12'}
+2025-01-07 11:47:12.994636 - INFO - Data sent to Kafka: {'user_id': 30, 'activity': 'purchase', 'timestamp': '2025-01-07 09:47:12'}
+2025-01-07 11:47:15.012667 - INFO - Generated user activity: {'user_id': 93, 'activity': 'purchase', 'timestamp': '2025-01-07 09:47:15'}
+2025-01-07 11:47:15.071651 - INFO - Data sent to Kafka: {'user_id': 93, 'activity': 'purchase', 'timestamp': '2025-01-07 09:47:15'}
+2025-01-07 11:47:17.098472 - INFO - Generated user activity: {'user_id': 97, 'activity': 'purchase', 'timestamp': '2025-01-07 09:47:17'}
+2025-01-07 11:47:17.112468 - INFO - Data sent to Kafka: {'user_id': 97, 'activity': 'purchase', 'timestamp': '2025-01-07 09:47:17'}
+2025-01-07 11:47:19.126756 - INFO - Generated user activity: {'user_id': 83, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:47:19'}
+2025-01-07 11:47:19.159749 - INFO - Data sent to Kafka: {'user_id': 83, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:47:19'}
+2025-01-07 11:47:21.245788 - INFO - Generated user activity: {'user_id': 1, 'activity': 'login', 'timestamp': '2025-01-07 09:47:21'}
+2025-01-07 11:47:21.254777 - INFO - Data sent to Kafka: {'user_id': 1, 'activity': 'login', 'timestamp': '2025-01-07 09:47:21'}
+2025-01-07 11:47:23.285669 - INFO - Generated user activity: {'user_id': 94, 'activity': 'logout', 'timestamp': '2025-01-07 09:47:23'}
+2025-01-07 11:47:23.300675 - INFO - Data sent to Kafka: {'user_id': 94, 'activity': 'logout', 'timestamp': '2025-01-07 09:47:23'}
+2025-01-07 11:47:25.320889 - INFO - Generated user activity: {'user_id': 72, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:47:25'}
+2025-01-07 11:47:25.325890 - INFO - Data sent to Kafka: {'user_id': 72, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:47:25'}
+2025-01-07 11:47:27.410388 - INFO - Generated user activity: {'user_id': 54, 'activity': 'purchase', 'timestamp': '2025-01-07 09:47:27'}
+2025-01-07 11:47:27.711338 - INFO - Data sent to Kafka: {'user_id': 54, 'activity': 'purchase', 'timestamp': '2025-01-07 09:47:27'}
+2025-01-07 11:47:29.740613 - INFO - Generated user activity: {'user_id': 70, 'activity': 'logout', 'timestamp': '2025-01-07 09:47:29'}
+2025-01-07 11:47:29.758591 - INFO - Data sent to Kafka: {'user_id': 70, 'activity': 'logout', 'timestamp': '2025-01-07 09:47:29'}
+2025-01-07 11:47:31.776617 - INFO - Generated user activity: {'user_id': 78, 'activity': 'login', 'timestamp': '2025-01-07 09:47:31'}
+2025-01-07 11:47:31.785598 - INFO - Data sent to Kafka: {'user_id': 78, 'activity': 'login', 'timestamp': '2025-01-07 09:47:31'}
+2025-01-07 11:47:33.795466 - INFO - Generated user activity: {'user_id': 71, 'activity': 'login', 'timestamp': '2025-01-07 09:47:33'}
+2025-01-07 11:47:33.858451 - INFO - Data sent to Kafka: {'user_id': 71, 'activity': 'login', 'timestamp': '2025-01-07 09:47:33'}
+2025-01-07 11:47:35.880094 - INFO - Generated user activity: {'user_id': 78, 'activity': 'purchase', 'timestamp': '2025-01-07 09:47:35'}
+2025-01-07 11:47:35.893097 - INFO - Data sent to Kafka: {'user_id': 78, 'activity': 'purchase', 'timestamp': '2025-01-07 09:47:35'}
+2025-01-07 11:47:37.904895 - INFO - Generated user activity: {'user_id': 67, 'activity': 'login', 'timestamp': '2025-01-07 09:47:37'}
+2025-01-07 11:47:37.914896 - INFO - Data sent to Kafka: {'user_id': 67, 'activity': 'login', 'timestamp': '2025-01-07 09:47:37'}
+2025-01-07 11:47:40.037539 - INFO - Generated user activity: {'user_id': 56, 'activity': 'logout', 'timestamp': '2025-01-07 09:47:40'}
+2025-01-07 11:47:40.197511 - INFO - Data sent to Kafka: {'user_id': 56, 'activity': 'logout', 'timestamp': '2025-01-07 09:47:40'}
+2025-01-07 11:47:42.303131 - INFO - Generated user activity: {'user_id': 5, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:47:42'}
+2025-01-07 11:47:42.310120 - INFO - Data sent to Kafka: {'user_id': 5, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:47:42'}
+2025-01-07 11:47:44.324538 - INFO - Generated user activity: {'user_id': 20, 'activity': 'login', 'timestamp': '2025-01-07 09:47:44'}
+2025-01-07 11:47:44.348540 - INFO - Data sent to Kafka: {'user_id': 20, 'activity': 'login', 'timestamp': '2025-01-07 09:47:44'}
+2025-01-07 11:47:46.370903 - INFO - Generated user activity: {'user_id': 47, 'activity': 'logout', 'timestamp': '2025-01-07 09:47:46'}
+2025-01-07 11:47:46.380902 - INFO - Data sent to Kafka: {'user_id': 47, 'activity': 'logout', 'timestamp': '2025-01-07 09:47:46'}
+2025-01-07 11:47:48.409751 - INFO - Generated user activity: {'user_id': 62, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:47:48'}
+2025-01-07 11:47:48.486675 - INFO - Data sent to Kafka: {'user_id': 62, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:47:48'}
+2025-01-07 11:47:50.529100 - INFO - Generated user activity: {'user_id': 52, 'activity': 'login', 'timestamp': '2025-01-07 09:47:50'}
+2025-01-07 11:47:50.746031 - INFO - Data sent to Kafka: {'user_id': 52, 'activity': 'login', 'timestamp': '2025-01-07 09:47:50'}
+2025-01-07 11:47:52.779054 - INFO - Generated user activity: {'user_id': 9, 'activity': 'login', 'timestamp': '2025-01-07 09:47:52'}
+2025-01-07 11:47:52.814044 - INFO - Data sent to Kafka: {'user_id': 9, 'activity': 'login', 'timestamp': '2025-01-07 09:47:52'}
+2025-01-07 11:47:54.835791 - INFO - Generated user activity: {'user_id': 70, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:47:54'}
+2025-01-07 11:47:54.847790 - INFO - Data sent to Kafka: {'user_id': 70, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:47:54'}
+2025-01-07 11:47:56.863857 - INFO - Generated user activity: {'user_id': 50, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:47:56'}
+2025-01-07 11:47:56.880817 - INFO - Data sent to Kafka: {'user_id': 50, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:47:56'}
+2025-01-07 11:47:58.896691 - INFO - Generated user activity: {'user_id': 96, 'activity': 'logout', 'timestamp': '2025-01-07 09:47:58'}
+2025-01-07 11:47:58.901697 - INFO - Data sent to Kafka: {'user_id': 96, 'activity': 'logout', 'timestamp': '2025-01-07 09:47:58'}
+2025-01-07 11:48:00.934960 - INFO - Generated user activity: {'user_id': 40, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:48:00'}
+2025-01-07 11:48:00.967939 - INFO - Data sent to Kafka: {'user_id': 40, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:48:00'}
+2025-01-07 11:48:03.069607 - INFO - Generated user activity: {'user_id': 78, 'activity': 'logout', 'timestamp': '2025-01-07 09:48:03'}
+2025-01-07 11:48:03.076593 - INFO - Data sent to Kafka: {'user_id': 78, 'activity': 'logout', 'timestamp': '2025-01-07 09:48:03'}
+2025-01-07 11:48:05.085984 - INFO - Generated user activity: {'user_id': 57, 'activity': 'logout', 'timestamp': '2025-01-07 09:48:05'}
+2025-01-07 11:48:05.185963 - INFO - Data sent to Kafka: {'user_id': 57, 'activity': 'logout', 'timestamp': '2025-01-07 09:48:05'}
+2025-01-07 11:48:07.202010 - INFO - Generated user activity: {'user_id': 50, 'activity': 'login', 'timestamp': '2025-01-07 09:48:07'}
+2025-01-07 11:48:07.211000 - INFO - Data sent to Kafka: {'user_id': 50, 'activity': 'login', 'timestamp': '2025-01-07 09:48:07'}
+2025-01-07 11:48:09.233494 - INFO - Generated user activity: {'user_id': 62, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:48:09'}
+2025-01-07 11:48:09.253491 - INFO - Data sent to Kafka: {'user_id': 62, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:48:09'}
+2025-01-07 11:48:11.275875 - INFO - Generated user activity: {'user_id': 38, 'activity': 'login', 'timestamp': '2025-01-07 09:48:11'}
+2025-01-07 11:48:11.283874 - INFO - Data sent to Kafka: {'user_id': 38, 'activity': 'login', 'timestamp': '2025-01-07 09:48:11'}
+2025-01-07 11:48:13.307938 - INFO - Generated user activity: {'user_id': 76, 'activity': 'login', 'timestamp': '2025-01-07 09:48:13'}
+2025-01-07 11:48:13.317935 - INFO - Data sent to Kafka: {'user_id': 76, 'activity': 'login', 'timestamp': '2025-01-07 09:48:13'}
+2025-01-07 11:48:15.338806 - INFO - Generated user activity: {'user_id': 9, 'activity': 'view_item', 'timestamp': '2025-01-07 09:48:15'}
+2025-01-07 11:48:15.346795 - INFO - Data sent to Kafka: {'user_id': 9, 'activity': 'view_item', 'timestamp': '2025-01-07 09:48:15'}
+2025-01-07 11:48:17.370629 - INFO - Generated user activity: {'user_id': 14, 'activity': 'login', 'timestamp': '2025-01-07 09:48:17'}
+2025-01-07 11:48:17.380629 - INFO - Data sent to Kafka: {'user_id': 14, 'activity': 'login', 'timestamp': '2025-01-07 09:48:17'}
+2025-01-07 11:48:19.393073 - INFO - Generated user activity: {'user_id': 54, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:48:19'}
+2025-01-07 11:48:19.417078 - INFO - Data sent to Kafka: {'user_id': 54, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:48:19'}
+2025-01-07 11:48:21.429067 - INFO - Generated user activity: {'user_id': 11, 'activity': 'purchase', 'timestamp': '2025-01-07 09:48:21'}
+2025-01-07 11:48:21.438064 - INFO - Data sent to Kafka: {'user_id': 11, 'activity': 'purchase', 'timestamp': '2025-01-07 09:48:21'}
+2025-01-07 11:48:23.449294 - INFO - Generated user activity: {'user_id': 68, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:48:23'}
+2025-01-07 11:48:23.457286 - INFO - Data sent to Kafka: {'user_id': 68, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:48:23'}
+2025-01-07 11:48:25.475638 - INFO - Generated user activity: {'user_id': 43, 'activity': 'view_item', 'timestamp': '2025-01-07 09:48:25'}
+2025-01-07 11:48:25.484615 - INFO - Data sent to Kafka: {'user_id': 43, 'activity': 'view_item', 'timestamp': '2025-01-07 09:48:25'}
+2025-01-07 11:48:27.514661 - INFO - Generated user activity: {'user_id': 69, 'activity': 'purchase', 'timestamp': '2025-01-07 09:48:27'}
+2025-01-07 11:48:27.532652 - INFO - Data sent to Kafka: {'user_id': 69, 'activity': 'purchase', 'timestamp': '2025-01-07 09:48:27'}
+2025-01-07 11:48:29.547515 - INFO - Generated user activity: {'user_id': 39, 'activity': 'login', 'timestamp': '2025-01-07 09:48:29'}
+2025-01-07 11:48:29.556517 - INFO - Data sent to Kafka: {'user_id': 39, 'activity': 'login', 'timestamp': '2025-01-07 09:48:29'}
+2025-01-07 11:48:31.574150 - INFO - Generated user activity: {'user_id': 76, 'activity': 'view_item', 'timestamp': '2025-01-07 09:48:31'}
+2025-01-07 11:48:31.582134 - INFO - Data sent to Kafka: {'user_id': 76, 'activity': 'view_item', 'timestamp': '2025-01-07 09:48:31'}
+2025-01-07 11:48:33.599442 - INFO - Generated user activity: {'user_id': 64, 'activity': 'view_item', 'timestamp': '2025-01-07 09:48:33'}
+2025-01-07 11:48:33.607448 - INFO - Data sent to Kafka: {'user_id': 64, 'activity': 'view_item', 'timestamp': '2025-01-07 09:48:33'}
+2025-01-07 11:48:35.625049 - INFO - Generated user activity: {'user_id': 23, 'activity': 'login', 'timestamp': '2025-01-07 09:48:35'}
+2025-01-07 11:48:35.633054 - INFO - Data sent to Kafka: {'user_id': 23, 'activity': 'login', 'timestamp': '2025-01-07 09:48:35'}
+2025-01-07 11:48:37.658039 - INFO - Generated user activity: {'user_id': 70, 'activity': 'login', 'timestamp': '2025-01-07 09:48:37'}
+2025-01-07 11:48:37.688038 - INFO - Data sent to Kafka: {'user_id': 70, 'activity': 'login', 'timestamp': '2025-01-07 09:48:37'}
+2025-01-07 11:48:39.856995 - INFO - Generated user activity: {'user_id': 60, 'activity': 'login', 'timestamp': '2025-01-07 09:48:39'}
+2025-01-07 11:48:40.183938 - INFO - Data sent to Kafka: {'user_id': 60, 'activity': 'login', 'timestamp': '2025-01-07 09:48:39'}
+2025-01-07 11:48:42.630502 - INFO - Generated user activity: {'user_id': 32, 'activity': 'login', 'timestamp': '2025-01-07 09:48:42'}
+2025-01-07 11:48:42.651498 - INFO - Data sent to Kafka: {'user_id': 32, 'activity': 'login', 'timestamp': '2025-01-07 09:48:42'}
+2025-01-07 11:48:44.697873 - INFO - Generated user activity: {'user_id': 33, 'activity': 'login', 'timestamp': '2025-01-07 09:48:44'}
+2025-01-07 11:48:44.709867 - INFO - Data sent to Kafka: {'user_id': 33, 'activity': 'login', 'timestamp': '2025-01-07 09:48:44'}
+2025-01-07 11:48:46.735585 - INFO - Generated user activity: {'user_id': 32, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:48:46'}
+2025-01-07 11:48:46.744574 - INFO - Data sent to Kafka: {'user_id': 32, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:48:46'}
+2025-01-07 11:48:48.756928 - INFO - Generated user activity: {'user_id': 95, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:48:48'}
+2025-01-07 11:48:48.768920 - INFO - Data sent to Kafka: {'user_id': 95, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:48:48'}
+2025-01-07 11:48:50.790568 - INFO - Generated user activity: {'user_id': 15, 'activity': 'purchase', 'timestamp': '2025-01-07 09:48:50'}
+2025-01-07 11:48:50.797547 - INFO - Data sent to Kafka: {'user_id': 15, 'activity': 'purchase', 'timestamp': '2025-01-07 09:48:50'}
+2025-01-07 11:48:52.815521 - INFO - Generated user activity: {'user_id': 80, 'activity': 'view_item', 'timestamp': '2025-01-07 09:48:52'}
+2025-01-07 11:48:52.823513 - INFO - Data sent to Kafka: {'user_id': 80, 'activity': 'view_item', 'timestamp': '2025-01-07 09:48:52'}
+2025-01-07 11:48:54.840714 - INFO - Generated user activity: {'user_id': 98, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:48:54'}
+2025-01-07 11:48:54.849699 - INFO - Data sent to Kafka: {'user_id': 98, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:48:54'}
+2025-01-07 11:48:56.857934 - INFO - Generated user activity: {'user_id': 73, 'activity': 'view_item', 'timestamp': '2025-01-07 09:48:56'}
+2025-01-07 11:48:56.865927 - INFO - Data sent to Kafka: {'user_id': 73, 'activity': 'view_item', 'timestamp': '2025-01-07 09:48:56'}
+2025-01-07 11:48:58.876838 - INFO - Generated user activity: {'user_id': 90, 'activity': 'logout', 'timestamp': '2025-01-07 09:48:58'}
+2025-01-07 11:48:58.887818 - INFO - Data sent to Kafka: {'user_id': 90, 'activity': 'logout', 'timestamp': '2025-01-07 09:48:58'}
+2025-01-07 11:49:00.897047 - INFO - Generated user activity: {'user_id': 11, 'activity': 'login', 'timestamp': '2025-01-07 09:49:00'}
+2025-01-07 11:49:00.904032 - INFO - Data sent to Kafka: {'user_id': 11, 'activity': 'login', 'timestamp': '2025-01-07 09:49:00'}
+2025-01-07 11:49:02.914603 - INFO - Generated user activity: {'user_id': 73, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:49:02'}
+2025-01-07 11:49:02.924598 - INFO - Data sent to Kafka: {'user_id': 73, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:49:02'}
+2025-01-07 11:49:04.936044 - INFO - Generated user activity: {'user_id': 83, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:49:04'}
+2025-01-07 11:49:04.950045 - INFO - Data sent to Kafka: {'user_id': 83, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:49:04'}
+2025-01-07 11:49:06.960648 - INFO - Generated user activity: {'user_id': 21, 'activity': 'purchase', 'timestamp': '2025-01-07 09:49:06'}
+2025-01-07 11:49:06.994648 - INFO - Data sent to Kafka: {'user_id': 21, 'activity': 'purchase', 'timestamp': '2025-01-07 09:49:06'}
+2025-01-07 11:49:09.007397 - INFO - Generated user activity: {'user_id': 74, 'activity': 'purchase', 'timestamp': '2025-01-07 09:49:09'}
+2025-01-07 11:49:09.073386 - INFO - Data sent to Kafka: {'user_id': 74, 'activity': 'purchase', 'timestamp': '2025-01-07 09:49:09'}
+2025-01-07 11:49:11.090812 - INFO - Generated user activity: {'user_id': 31, 'activity': 'view_item', 'timestamp': '2025-01-07 09:49:11'}
+2025-01-07 11:49:11.099806 - INFO - Data sent to Kafka: {'user_id': 31, 'activity': 'view_item', 'timestamp': '2025-01-07 09:49:11'}
+2025-01-07 11:49:13.126528 - INFO - Generated user activity: {'user_id': 10, 'activity': 'logout', 'timestamp': '2025-01-07 09:49:13'}
+2025-01-07 11:49:13.141523 - INFO - Data sent to Kafka: {'user_id': 10, 'activity': 'logout', 'timestamp': '2025-01-07 09:49:13'}
+2025-01-07 11:49:15.160877 - INFO - Generated user activity: {'user_id': 64, 'activity': 'view_item', 'timestamp': '2025-01-07 09:49:15'}
+2025-01-07 11:49:15.221870 - INFO - Data sent to Kafka: {'user_id': 64, 'activity': 'view_item', 'timestamp': '2025-01-07 09:49:15'}
+2025-01-07 11:49:17.268503 - INFO - Generated user activity: {'user_id': 79, 'activity': 'purchase', 'timestamp': '2025-01-07 09:49:17'}
+2025-01-07 11:49:17.371537 - INFO - Data sent to Kafka: {'user_id': 79, 'activity': 'purchase', 'timestamp': '2025-01-07 09:49:17'}
+2025-01-07 11:49:19.469944 - INFO - Generated user activity: {'user_id': 80, 'activity': 'logout', 'timestamp': '2025-01-07 09:49:19'}
+2025-01-07 11:49:19.782883 - INFO - Data sent to Kafka: {'user_id': 80, 'activity': 'logout', 'timestamp': '2025-01-07 09:49:19'}
+2025-01-07 11:49:22.174662 - INFO - Generated user activity: {'user_id': 39, 'activity': 'login', 'timestamp': '2025-01-07 09:49:22'}
+2025-01-07 11:49:22.187673 - INFO - Data sent to Kafka: {'user_id': 39, 'activity': 'login', 'timestamp': '2025-01-07 09:49:22'}
+2025-01-07 11:49:24.213454 - INFO - Generated user activity: {'user_id': 89, 'activity': 'login', 'timestamp': '2025-01-07 09:49:24'}
+2025-01-07 11:49:24.222443 - INFO - Data sent to Kafka: {'user_id': 89, 'activity': 'login', 'timestamp': '2025-01-07 09:49:24'}
+2025-01-07 11:49:26.233947 - INFO - Generated user activity: {'user_id': 44, 'activity': 'login', 'timestamp': '2025-01-07 09:49:26'}
+2025-01-07 11:49:26.306945 - INFO - Data sent to Kafka: {'user_id': 44, 'activity': 'login', 'timestamp': '2025-01-07 09:49:26'}
+2025-01-07 11:49:28.318741 - INFO - Generated user activity: {'user_id': 53, 'activity': 'logout', 'timestamp': '2025-01-07 09:49:28'}
+2025-01-07 11:49:28.324727 - INFO - Data sent to Kafka: {'user_id': 53, 'activity': 'logout', 'timestamp': '2025-01-07 09:49:28'}
+2025-01-07 11:49:30.335777 - INFO - Generated user activity: {'user_id': 99, 'activity': 'purchase', 'timestamp': '2025-01-07 09:49:30'}
+2025-01-07 11:49:30.340783 - INFO - Data sent to Kafka: {'user_id': 99, 'activity': 'purchase', 'timestamp': '2025-01-07 09:49:30'}
+2025-01-07 11:49:32.738243 - INFO - Generated user activity: {'user_id': 73, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:49:32'}
+2025-01-07 11:49:33.018200 - INFO - Data sent to Kafka: {'user_id': 73, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:49:32'}
+2025-01-07 11:49:35.030311 - INFO - Generated user activity: {'user_id': 96, 'activity': 'login', 'timestamp': '2025-01-07 09:49:35'}
+2025-01-07 11:49:35.038313 - INFO - Data sent to Kafka: {'user_id': 96, 'activity': 'login', 'timestamp': '2025-01-07 09:49:35'}
+2025-01-07 11:49:37.062843 - INFO - Generated user activity: {'user_id': 88, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:49:37'}
+2025-01-07 11:49:37.071846 - INFO - Data sent to Kafka: {'user_id': 88, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:49:37'}
+2025-01-07 11:49:39.093683 - INFO - Generated user activity: {'user_id': 29, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:49:39'}
+2025-01-07 11:49:39.101688 - INFO - Data sent to Kafka: {'user_id': 29, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:49:39'}
+2025-01-07 11:49:41.123077 - INFO - Generated user activity: {'user_id': 49, 'activity': 'purchase', 'timestamp': '2025-01-07 09:49:41'}
+2025-01-07 11:49:41.129088 - INFO - Data sent to Kafka: {'user_id': 49, 'activity': 'purchase', 'timestamp': '2025-01-07 09:49:41'}
+2025-01-07 11:49:43.143439 - INFO - Generated user activity: {'user_id': 12, 'activity': 'view_item', 'timestamp': '2025-01-07 09:49:43'}
+2025-01-07 11:49:43.193509 - INFO - Data sent to Kafka: {'user_id': 12, 'activity': 'view_item', 'timestamp': '2025-01-07 09:49:43'}
+2025-01-07 11:49:45.204162 - INFO - Generated user activity: {'user_id': 71, 'activity': 'logout', 'timestamp': '2025-01-07 09:49:45'}
+2025-01-07 11:49:45.213164 - INFO - Data sent to Kafka: {'user_id': 71, 'activity': 'logout', 'timestamp': '2025-01-07 09:49:45'}
+2025-01-07 11:49:47.229082 - INFO - Generated user activity: {'user_id': 51, 'activity': 'purchase', 'timestamp': '2025-01-07 09:49:47'}
+2025-01-07 11:49:47.251088 - INFO - Data sent to Kafka: {'user_id': 51, 'activity': 'purchase', 'timestamp': '2025-01-07 09:49:47'}
+2025-01-07 11:49:49.261242 - INFO - Generated user activity: {'user_id': 25, 'activity': 'purchase', 'timestamp': '2025-01-07 09:49:49'}
+2025-01-07 11:49:49.268237 - INFO - Data sent to Kafka: {'user_id': 25, 'activity': 'purchase', 'timestamp': '2025-01-07 09:49:49'}
+2025-01-07 11:49:51.283429 - INFO - Generated user activity: {'user_id': 27, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:49:51'}
+2025-01-07 11:49:51.292425 - INFO - Data sent to Kafka: {'user_id': 27, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:49:51'}
+2025-01-07 11:49:53.307044 - INFO - Generated user activity: {'user_id': 17, 'activity': 'login', 'timestamp': '2025-01-07 09:49:53'}
+2025-01-07 11:49:53.318052 - INFO - Data sent to Kafka: {'user_id': 17, 'activity': 'login', 'timestamp': '2025-01-07 09:49:53'}
+2025-01-07 11:49:55.341154 - INFO - Generated user activity: {'user_id': 56, 'activity': 'logout', 'timestamp': '2025-01-07 09:49:55'}
+2025-01-07 11:49:55.350139 - INFO - Data sent to Kafka: {'user_id': 56, 'activity': 'logout', 'timestamp': '2025-01-07 09:49:55'}
+2025-01-07 11:49:57.366886 - INFO - Generated user activity: {'user_id': 33, 'activity': 'logout', 'timestamp': '2025-01-07 09:49:57'}
+2025-01-07 11:49:57.375879 - INFO - Data sent to Kafka: {'user_id': 33, 'activity': 'logout', 'timestamp': '2025-01-07 09:49:57'}
+2025-01-07 11:49:59.380122 - INFO - Generated user activity: {'user_id': 36, 'activity': 'logout', 'timestamp': '2025-01-07 09:49:59'}
+2025-01-07 11:49:59.391127 - INFO - Data sent to Kafka: {'user_id': 36, 'activity': 'logout', 'timestamp': '2025-01-07 09:49:59'}
+2025-01-07 11:50:01.412504 - INFO - Generated user activity: {'user_id': 20, 'activity': 'login', 'timestamp': '2025-01-07 09:50:01'}
+2025-01-07 11:50:01.421487 - INFO - Data sent to Kafka: {'user_id': 20, 'activity': 'login', 'timestamp': '2025-01-07 09:50:01'}
+2025-01-07 11:50:03.436904 - INFO - Generated user activity: {'user_id': 4, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:50:03'}
+2025-01-07 11:50:03.442897 - INFO - Data sent to Kafka: {'user_id': 4, 'activity': 'add_to_cart', 'timestamp': '2025-01-07 09:50:03'}
+2025-01-07 11:50:05.460658 - INFO - Generated user activity: {'user_id': 47, 'activity': 'view_item', 'timestamp': '2025-01-07 09:50:05'}
+2025-01-07 11:50:05.470630 - INFO - Data sent to Kafka: {'user_id': 47, 'activity': 'view_item', 'timestamp': '2025-01-07 09:50:05'}
+2025-01-07 11:50:07.501287 - INFO - Generated user activity: {'user_id': 86, 'activity': 'view_item', 'timestamp': '2025-01-07 09:50:07'}
+2025-01-07 11:50:07.508290 - INFO - Data sent to Kafka: {'user_id': 86, 'activity': 'view_item', 'timestamp': '2025-01-07 09:50:07'}
+2025-01-07 11:50:09.526654 - INFO - Generated user activity: {'user_id': 76, 'activity': 'logout', 'timestamp': '2025-01-07 09:50:09'}
+2025-01-07 11:50:09.534652 - INFO - Data sent to Kafka: {'user_id': 76, 'activity': 'logout', 'timestamp': '2025-01-07 09:50:09'}
+2025-01-07 11:50:10.892879 - INFO - Data generator stopped by user.
